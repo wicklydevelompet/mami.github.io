@@ -45,7 +45,7 @@ main {
 
 
 @media only screen and (max-width: 298px) {
- h1 b,h3 b,h4 b,a{
+ h1 b,h3 b,h4 b,.mail,span{
     font-size: 90px;
  }
 
