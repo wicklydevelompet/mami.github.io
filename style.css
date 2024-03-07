@@ -12,6 +12,9 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+ h1 b,h3 b,h4 b{
+    font-size: 90px;
+ }
 
 .baslik{
     color: white;
@@ -45,7 +48,7 @@ main {
  h1 b,h3 b,h4 b{
     font-size: 90px;
  }
-}
+
 
 @media screen and (max-width:888px) {
     .mobil{
