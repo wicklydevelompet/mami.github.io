@@ -16,6 +16,7 @@ main {
     font-size: 65px;
  }
 
+
 .baslik{
     color: white;
     font-size: 75px;
@@ -46,7 +47,7 @@ main {
 
 @media only screen and (max-width: 298px) {
  h1 b,h3 b,h4 b,.mail,.adress{
-    font-size: 65px;
+    font-size: 60px;
  }
 
 
