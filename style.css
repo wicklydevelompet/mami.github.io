@@ -12,8 +12,8 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 }
- h1 b,h3 b,h4 b{
-    font-size: 90px;
+ h1 b,h3 b,h4 b,a{
+    font-size: 150px;
  }
 
 .baslik{
@@ -45,7 +45,7 @@ main {
 
 
 @media only screen and (max-width: 298px) {
- h1 b,h3 b,h4 b{
+ h1 b,h3 b,h4 b,a{
     font-size: 90px;
  }
 
