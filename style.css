@@ -12,8 +12,8 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 }
- h1 b,h3 b,h4 b,a{
-    font-size: 150px;
+ h1 b,h3 b,h4 b,.mail,span{
+    font-size: 70px;
  }
 
 .baslik{
@@ -56,4 +56,4 @@ main {
      }
 }
 
-
+}
