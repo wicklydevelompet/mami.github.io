@@ -42,9 +42,10 @@ main {
 
 
 @media only screen and (max-width: 298px) {
- .baslik,.altbaslik,.mail{
+ .mobil{
     font-size: 90px;
  }
+}
 
 @media screen and (max-width:888px) {
     .mobil{
