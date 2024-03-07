@@ -42,7 +42,7 @@ main {
 
 
 @media only screen and (max-width: 298px) {
- .mobil{
+ h1 b,h3 b,h4 b{
     font-size: 90px;
  }
 }
